@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/Portfolio/static/css/main.3f808800.css",
-    "main.js": "/Portfolio/static/js/main.f7680c3d.js",
+    "main.js": "/Portfolio/static/js/main.15161ef4.js",
     "static/media/NotoSansKR-Bold.woff": "/Portfolio/static/media/NotoSansKR-Bold.47aa03b5ef5f052718f9.woff",
     "static/media/NotoSansKR-Medium.woff": "/Portfolio/static/media/NotoSansKR-Medium.211be3b064fe8b7cac54.woff",
     "static/media/NotoSansKR-Regular.woff": "/Portfolio/static/media/NotoSansKR-Regular.0b0d0913cf76a9bdf1b4.woff",
@@ -127,10 +127,10 @@
     "static/media/round2.svg": "/Portfolio/static/media/round2.f39e025c9a2aab8c625cbccc30feef06.svg",
     "static/media/round.svg": "/Portfolio/static/media/round.07cae96ca44054dd6aa5164b53c3ec19.svg",
     "main.3f808800.css.map": "/Portfolio/static/css/main.3f808800.css.map",
-    "main.f7680c3d.js.map": "/Portfolio/static/js/main.f7680c3d.js.map"
+    "main.15161ef4.js.map": "/Portfolio/static/js/main.15161ef4.js.map"
   },
   "entrypoints": [
     "static/css/main.3f808800.css",
-    "static/js/main.f7680c3d.js"
+    "static/js/main.15161ef4.js"
   ]
 }
