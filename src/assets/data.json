@@ -36,7 +36,7 @@
             "thumb": 19,
             "title": "미담 건축사무소",
             "link": "https://codename-sand.github.io/midam",
-            "description": "미담 건축사무소 웹 사이트 리뉴얼 [디자인 / 퍼블리싱]",
+            "description": "미담 건축사무소 웹 사이트 리뉴얼",
             "tag": "UI · UX · HTML5 · CSS3 · JS",
             "filter" : "web"
         },
@@ -52,7 +52,7 @@
             "thumb": 17,
             "title": "POTS",
             "link": "https://codename-sand.github.io/pots",
-            "description": "POTS(ERP) 웹 사이트 [디자인 / 퍼블리싱]",
+            "description": "POTS(ERP) 웹 사이트",
             "tag": "UI · UX · HTML5 · CSS3 · JS",
             "filter" : "web"
         },
@@ -60,7 +60,7 @@
             "thumb": 16,
             "title": "중소기업복지지원단",
             "link": "https://codename-sand.github.io/smaller-businesses",
-            "description": "중소기업복지지원단 웹 사이트 [디자인 / 퍼블리싱]",
+            "description": "중소기업복지지원단 웹 사이트",
             "tag": "UI · UX · HTML5 · CSS3 · JS",
             "filter" : "web"
         },
@@ -68,7 +68,7 @@
             "thumb": 15,
             "title": "부동산",
             "link": "https://codename-sand.github.io/real-estate",
-            "description": "부동산 웹 사이트 [디자인 / 퍼블리싱]",
+            "description": "부동산 웹 사이트",
             "tag": "UI · UX · HTML5 · CSS3 · JS",
             "filter" : "web"
         },
@@ -76,7 +76,7 @@
             "thumb": 14,
             "title": "BYFI Makerslab",
             "link": "https://codename-sand.github.io/byfi-makerslab",
-            "description": "BYFI Makerslab 웹 사이트 [디자인 / 퍼블리싱]",
+            "description": "BYFI Makerslab 웹 사이트",
             "tag": "UI · UX · HTML5 · CSS3 · JS",
             "filter" : "web"
         },
@@ -108,7 +108,7 @@
             "thumb": 10,
             "title": "한국기업복지지도사협회",
             "link": "https://codename-sand.github.io/welfare-instructor",
-            "description": "한국기업복지지도사협회 사이트 [디자인 / 퍼블리싱]",
+            "description": "한국기업복지지도사협회 사이트",
             "tag": "UI · UX  · HTML5 · CSS3 · JS",
             "filter" : "web"
         },
@@ -124,7 +124,7 @@
             "thumb": 8,
             "title": "광주제2순환도로",
             "link": "https://codename-sand.github.io/gwangju-highway",
-            "description": "광주제2순환도로 사이트 리뉴얼 [디자인 / 퍼블리싱]",
+            "description": "광주제2순환도로 사이트 리뉴얼",
             "tag": "UI · UX  · HTML5 · CSS3 · JS",
             "filter" : "web"
         },
@@ -132,7 +132,7 @@
             "thumb": 7,
             "title": "(주)한국기업복지",
             "link": "https://codename-sand.github.io/corporate-welfare",
-            "description": "한국기업복지 사이트 [디자인 / 퍼블리싱]",
+            "description": "한국기업복지 사이트",
             "tag": "UI · UX  · HTML5 · CSS3 · JS",
             "filter" : "web"
         },
@@ -164,7 +164,7 @@
             "thumb": 3,
             "title": "e복지",
             "link": "https://codename-sand.github.io/e-welfare",
-            "description": "e복지(기업복지 플랫폼) 사이트 [디자인 / 퍼블리싱]",
+            "description": "e복지(기업복지 플랫폼) 사이트",
             "tag": "UI · UX  · HTML5 · CSS3 · JS",
             "filter" : "web"
         },
@@ -172,7 +172,7 @@
             "thumb": 2,
             "title": "떡담 | 메고지고 리뉴얼",
             "link": "https://codename-sand.github.io/ricepie",
-            "description": "떡담 웹 사이트 리뉴얼 [디자인 / 퍼블리싱]",
+            "description": "떡담 웹 사이트 리뉴얼",
             "tag": "UI · UX  · HTML5 · CSS3 · JS",
             "filter" : "web"
         },
@@ -180,7 +180,7 @@
             "thumb": 1,
             "title": "Bookingzone",
             "link": "https://codename-sand.github.io/bookingzone",
-            "description": "골프 부킹 웹 사이트 [디자인 / 퍼블리싱]",
+            "description": "골프 부킹 웹 사이트",
             "tag": "UI · UX  · HTML5 · CSS3 · JS",
             "filter" : "web"
         }
