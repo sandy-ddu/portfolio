@@ -159,7 +159,7 @@ export const Description = styled.div`
     }
     p{
         font-family: 'NotoML';
-        width:calc(100% - 520px)
+        // width:calc(100% - 520px)
        
     }
 

@@ -16,7 +16,7 @@ export const Hana = () => {
   return (
     <FixedBg className={Hanabg} style={{ paddingTop: height + 'px' }} >
       <Arrow />
-      <Description className={Hana0}>
+      <Description>
         <h3>하나은행 ATM UI 리뉴얼</h3>
         <h2>Hana bank ATM UI Renewal</h2>
         <div>
@@ -28,6 +28,9 @@ export const Hana = () => {
           </p>
         </div>
       </Description>
+      <SlideWrap results={40}>
+        <img src={Hana0} alt="image" data-aos="fade-up"  />
+      </SlideWrap>
       <SlideWrap results={40}>
         <img src={Hana1} alt="image" data-aos="fade-up"  />
         <img src={Hana2} alt="image" data-aos="fade-up" style={{marginTop:'150px'}}/>
